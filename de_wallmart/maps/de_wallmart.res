@@ -1,0 +1,14 @@
+gfx/env/dashnight256_bk.tga
+gfx/env/dashnight256_dn.tga
+gfx/env/dashnight256_ft.tga
+gfx/env/dashnight256_lf.tga
+gfx/env/dashnight256_rt.tga
+gfx/env/dashnight256_up.tga
+models/dogfish.mdl
+models/fish.mdl
+models/sitting2.mdl
+models/skeleton.mdl
+models/terd.mdl
+sound/ambience/fartsplat.wav
+sound/ambience/squallradio.wav
+sound/ambience/x4.WAV
